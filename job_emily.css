@@ -1,0 +1,52 @@
+body{
+    background-image: url('whitemarble2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Press Start 2P';
+}
+
+h2{
+    color: rgb(104, 104, 158);
+    font-family: 'Press Start 2P';
+    text-shadow:2px 2px rgb(179, 173, 201);
+}
+
+legend{
+    color: rgb(198, 184, 226);
+    text-shadow:2px 2px rgb(0, 0, 0);
+}
+
+#Account{
+    font-size: 10px;
+}
+
+img{
+    float: left;
+    width: 20%;
+    padding: 3px;
+}
+
+#PersonalInformation{
+    font-size: 10px;
+}
+
+#Availability{
+    font-size: 10px;
+}
+
+#Hoursavailable{
+    border: double rgb(150, 117, 143);
+    padding: 10px;
+}
+
+#PersonalStatement{
+    font-size: 10px;
+}
+
+#Files{
+    font-size: 7px;
+}
+
+#Emojis{
+    text-align: center;
+}
